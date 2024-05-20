@@ -1,0 +1,17 @@
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\bin\Debug\net6.0\LumiaMVC.Business.deps.json
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\bin\Debug\net6.0\LumiaMVC.Business.dll
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\bin\Debug\net6.0\LumiaMVC.Business.pdb
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\bin\Debug\net6.0\LumiaMVC.Core.dll
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\bin\Debug\net6.0\LumiaMVC.Data.dll
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\bin\Debug\net6.0\LumiaMVC.Data.pdb
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\bin\Debug\net6.0\LumiaMVC.Core.pdb
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\obj\Debug\net6.0\LumiaMVC.Business.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\obj\Debug\net6.0\LumiaMVC.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\obj\Debug\net6.0\LumiaMVC.Business.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\obj\Debug\net6.0\LumiaMVC.Business.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\obj\Debug\net6.0\LumiaMVC.Business.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\obj\Debug\net6.0\LumiaMVC.Business.csproj.CopyComplete
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\obj\Debug\net6.0\LumiaMVC.Business.dll
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\obj\Debug\net6.0\refint\LumiaMVC.Business.dll
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\obj\Debug\net6.0\LumiaMVC.Business.pdb
+C:\Users\ll novbe\Desktop\LumiaMVC\LumiaMVC.Business\obj\Debug\net6.0\ref\LumiaMVC.Business.dll
